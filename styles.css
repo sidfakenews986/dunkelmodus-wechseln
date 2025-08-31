@@ -1,23 +1,27 @@
+/* Body styling */
 body {
-    background-color: #121212;
-    color: #ffffff;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* White text */
+    font-family: Arial, sans-serif; /* Font family */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add padding */
 }
 
+/* Container styling */
 .container {
-    max-width: 600px;
-    margin: auto;
+    max-width: 600px; /* Max width of the container */
+    margin: auto; /* Center the container */
 }
 
+/* Palette selector styling */
 .palette-selector {
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Space below the palette selector */
 }
 
+/* Color preview box styling */
 .color-preview {
-    padding: 20px;
-    border: 1px solid #ffffff;
-    background-color: #1e1e1e;
-    text-align: center;
+    padding: 20px; /* Inner padding */
+    border: 1px solid #ffffff; /* White border */
+    background-color: #1e1e1e; /* Dark background for preview */
+    text-align: center; /* Center text inside preview */
 }

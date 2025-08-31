@@ -1,27 +1,27 @@
 /* Body styling */
 body {
-    background-color: #121212; /* Dark background */
-    color: #ffffff; /* White text */
-    font-family: Arial, sans-serif; /* Font family */
-    margin: 0; /* Remove default margin */
-    padding: 20px; /* Add padding */
+    background-color: #121212; /* Dunkler Hintergrund */
+    color: #ffffff; /* Weißer Text */
+    font-family: Arial, sans-serif; /* Schriftart */
+    margin: 0; /* Standardmargin entfernen */
+    padding: 20px; /* Padding hinzufügen */
 }
 
 /* Container styling */
 .container {
-    max-width: 600px; /* Max width of the container */
-    margin: auto; /* Center the container */
+    max-width: 600px; /* Maximale Breite des Containers */
+    margin: auto; /* Container zentrieren */
 }
 
 /* Palette selector styling */
 .palette-selector {
-    margin-bottom: 20px; /* Space below the palette selector */
+    margin-bottom: 20px; /* Abstand unter dem Farbauswähler */
 }
 
 /* Color preview box styling */
 .color-preview {
-    padding: 20px; /* Inner padding */
-    border: 1px solid #ffffff; /* White border */
-    background-color: #1e1e1e; /* Dark background for preview */
-    text-align: center; /* Center text inside preview */
+    padding: 20px; /* Innere Padding */
+    border: 1px solid #ffffff; /* Weißer Rand */
+    background-color: #1e1e1e; /* Dunkler Hintergrund für die Vorschau */
+    text-align: center; /* Text innerhalb der Vorschau zentrieren */
 }

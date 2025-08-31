@@ -25,3 +25,13 @@ body {
     background-color: #1e1e1e; /* Dunkler Hintergrund für die Vorschau */
     text-align: center; /* Text innerhalb der Vorschau zentrieren */
 }
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    body {
+        padding: 10px; /* Weniger Padding auf kleinen Bildschirmen */
+    }
+    .container {
+        max-width: 100%; /* Container auf volle Breite anpassen */
+    }
+}

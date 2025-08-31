@@ -1,0 +1,23 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.palette-selector {
+    margin-bottom: 20px;
+}
+
+.color-preview {
+    padding: 20px;
+    border: 1px solid #ffffff;
+    background-color: #1e1e1e;
+    text-align: center;
+}
